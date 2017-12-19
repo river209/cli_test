@@ -1,18 +1,9 @@
 # cli_test
 this is a npm cli test
-<<<<<<< HEAD
-over
+wfwewef
 
 
-
-over
-=======
+wefwef
 
 
-
-v
-v
-v
-v
-vv
->>>>>>> origin/master
+wefwef
